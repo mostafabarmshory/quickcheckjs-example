@@ -1,0 +1,8 @@
+{
+  "name": "quickcheckjs-example",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-core": "jasmine#^3.4.0"
+  }
+}
